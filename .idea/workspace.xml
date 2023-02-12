@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbcd951f-5558-4c6d-bf73-817e0dbeb00b" name="Changes" comment="Сделана секция lead&#10;Добавлены шрифты">
-      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/__item-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo-grid-image-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__description/place__description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__website/place_website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-altai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-curonian-spit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-karelia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-kola-peninsula.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
@@ -83,7 +82,8 @@
       <updated>1676210088419</updated>
       <workItem from="1676210089679" duration="96000" />
       <workItem from="1676210204922" duration="26000" />
-      <workItem from="1676210238632" duration="10219000" />
+      <workItem from="1676210238632" duration="16461000" />
+      <workItem from="1676227180691" duration="4274000" />
     </task>
     <task id="LOCAL-00001" summary="сверстана секция header">
       <created>1676212257680</created>
