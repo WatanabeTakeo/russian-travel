@@ -1,3 +1,17 @@
 .lead__image {
-    width: 100%;
+    max-width: 984px;
+    width: calc(100vw - 148px * 2);
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1024px){
+    .lead__image {
+        width: calc(100vw - 48px * 2);
+    }
+}
+
+@media screen and (max-width: 768px){
+    .lead__image {
+        width: 100%;
+    }
 }
