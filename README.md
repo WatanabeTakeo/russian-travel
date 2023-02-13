@@ -25,12 +25,12 @@
 
 # Тут можно посмотреть код проекта
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WatanabeTakeo&repo=russian-travel)](https://github.com/WatanabeTakeo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WatanabeTakeo&repo=russian-travel)](https://github.com/WatanabeTakeo/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatanabeTakeo)](https://github.com/WatanabeTakeo/github-readme-stats)
 
 **Использумеые технологии**
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Plastic&logo=html5&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WatanabeTakeo)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatanabeTakeo)](https://github.com/WatanabeTakeo/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WatanabeTakeo)](https://git.io/streak-stats) 
 
 Спасибо за уделенное внимание!
