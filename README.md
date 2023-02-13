@@ -18,6 +18,10 @@
 
 **Картинки**
 
+![alt text](https://i.ibb.co/g7dzQnP/2023-02-13-235509296.png)
+![alt text](https://i.ibb.co/CQQGwJS/2023-02-13-235605075.png)
+![alt text](https://i.ibb.co/pQV7g6q/2023-02-13-235655508.png)
+
 # Тут можно посмотреть код проекта
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WatanabeTakeo&repo=russian-travel)](https://github.com/WatanabeTakeo/github-readme-stats)
