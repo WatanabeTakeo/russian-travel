@@ -2,9 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: start;
-
     padding-top: 92px;
-    margin-left: calc(50vw - 984px / 2);
     color: #fff;
 }
 
@@ -17,10 +15,9 @@
 
 @media screen and (max-width: 768px) {
     .intro {
-        margin: 0 24px 0 24px;
+        margin: 0 24px;
     }
 }
-
 
 @media screen and (max-width: 320px) {
     .intro {

@@ -3,12 +3,9 @@
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-
     min-width: 288px;
     margin: 0;
-
     grid-area: title;
-
     color: #fff;
 }
 
@@ -23,7 +20,6 @@
     .place__title {
         font-size: 32px;
         line-height: 35px;
-
         margin: 0 auto;
     }
 }

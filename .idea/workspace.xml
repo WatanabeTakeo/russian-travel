@@ -5,23 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbcd951f-5558-4c6d-bf73-817e0dbeb00b" name="Changes" comment="Сделана секция lead&#10;Добавлены шрифты">
-      <change afterPath="$PROJECT_DIR$/blocks/place/__description/place__description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/__website/place_website.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-altai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-baikal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-curonian-spit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-karelia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/place-kola-peninsula.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/content/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/_checked/header__lang-link_checked.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list-item/_font-weight/intro__list-item_font-weight_normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list-item/intro__list-item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__description/place__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__description/place__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__image/place__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__link/place__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__website/place_website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__website/place_website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-italic.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-roman.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter.var.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/inter.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/inter.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +119,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\agore\WebstormProjects\russian-travel\fonts" />
       <recent name="C:\Users\Yesen\WebstormProjects\russian-travel\images" />
       <recent name="C:\Users\Yesen\WebstormProjects\russian-travel\vendor" />
       <recent name="C:\Users\Yesen\WebstormProjects\russian-travel\fonts" />

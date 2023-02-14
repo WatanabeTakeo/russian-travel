@@ -1,17 +1,15 @@
 .place {
     min-height: 584px;
     width: 100%;
-
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(340px, max-content));
+    grid-template-columns: 460px calc(100% - 460px - 40px);
     grid-template-rows: repeat(auto-fit, minmax(min-content, max-content));
     grid-template-areas:
             "title website"
             "image description"
             "image description";
-    grid-auto-flow: dense;
-
     gap: 48px 40px;
+    color: #fff;
 }
 
 @media screen and (max-width: 1024px) {
