@@ -4,20 +4,31 @@
     font-style: normal;
     line-height: 36px;
     color: #fff;
-    margin: 0 0 64px 0;
+    margin: 0;
     max-width: 640px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1280px) {
+    .lead__subtitle {
+        margin-bottom: 64px;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1279px) {
     .lead__subtitle {
         width: calc(100vw - 64px * 2);
-        font-size: 30px;
-        line-height: 36px;
         margin-bottom: 56px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 466px) and (max-width: 899px){
+    .lead__subtitle {
+        margin-bottom: 56px;
+    }
+}
+
+
+@media screen and (max-width: 465px) {
     .lead__subtitle {
         width: calc(100vw - 16px * 2);
         margin-bottom: 40px;

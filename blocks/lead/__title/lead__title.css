@@ -9,13 +9,25 @@
     max-width: 720px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 1101px) {
+    .lead__title {
+        padding-top: 56px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .lead__title {
+        padding-top: 48px;
+    }
+}
+
+@media screen and (min-width: 466px) and (max-width: 899px) {
     .lead__title {
         width: calc(100vw - 24px * 2);
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 465px) {
     .lead__title {
         width: calc(100vw - 16px * 2);
         font-size: 40px;
