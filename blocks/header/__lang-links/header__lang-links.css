@@ -1,11 +1,17 @@
+/*.header__lang-links {*/
+/*    list-style: none;*/
+/*    display: flex;*/
+/*    column-gap: 18px;*/
+/*    align-items: start;*/
+/*    margin: 0;*/
+/*}*/
+
+/*@media screen {*/
+/*    */
+/*}*/
+
 .header__lang-links {
     list-style: none;
     display: flex;
     column-gap: 18px;
-    align-items: start;
-    margin: 0;
-}
-
-@media screen {
-    
 }

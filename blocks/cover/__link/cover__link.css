@@ -3,15 +3,10 @@
     text-decoration: none;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     position: relative;
 
     height: 62.5vw;
+    width: 100%;
 }
 
-@media screen and (max-width: 400px) {
-    .cover__link {
-        height: 200px;
-    }
-}

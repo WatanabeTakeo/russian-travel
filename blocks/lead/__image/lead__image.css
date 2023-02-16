@@ -1,18 +1,4 @@
 .lead__image {
-    max-width: 984px;
-    width: calc(100vw - 148px * 2);
-    object-fit: cover;
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1279px){
-    .lead__image {
-        width: calc(100vw - 48px * 2);
-    }
-}
-
-@media screen and (max-width: 768px){
-    .lead__image {
-        width: calc(100vw - 20px);
-        height: 62.5vw;
-    }
+    width: 100%;
+    padding-top: 40px;
 }

@@ -1,21 +1,9 @@
 .cover__title {
-    font-style: normal;
     font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-
-    width: 560px;
-    z-index: 1;
-
+    font-size: 32px;
+    line-height: 35px;
+    padding: 0 16px;
     margin-top: 0;
-    margin-bottom: 32px;
-}
-
-@media screen and (max-width: 555px){
-    .cover__title {
-        font-size: 32px;
-        line-height: 35px;
-        width: 288px;
-        margin-bottom: 16px;
-    }
+    margin-bottom: 16px;
+    z-index: 1;
 }
