@@ -13,3 +13,9 @@
         line-height: 58px;
     }
 }
+
+@media (min-width: 1024px) {
+    .intro__title {
+        max-width: 680px;
+    }
+}

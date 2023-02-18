@@ -4,6 +4,7 @@
     opacity: .8;
     width: 100%;
     height: 62.5vw;
+    max-height: 740px;
     position: absolute;
 }
 
