@@ -1,0 +1,26 @@
+.lead_header {
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+    margin-bottom: 40px;
+}
+
+@media screen and (min-width: 768px) {
+    .lead_header {
+        width: calc(100% - 48px);
+        align-items: center;
+        margin-bottom: 56px;
+        row-gap: 32px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead_header {
+        width: calc(100% - 304px);
+        padding-right: 24px;
+        padding-left: 24px;
+        margin-bottom: 56px;
+        row-gap: 32px;
+    }
+}

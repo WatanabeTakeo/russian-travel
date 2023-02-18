@@ -1,24 +1,15 @@
-/*.place__description {*/
-/*    grid-area: description;*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    row-gap: 26px;*/
-/*    max-width: 484px;*/
-/*}*/
-
-/*@media screen and (max-width: 320px){*/
-/*    .place__description {*/
-/*        row-gap: 25px;*/
-/*        width: 288px;*/
-/*        margin: 0 auto;*/
-/*    }*/
-/*}*/
-
 .place__description {
+    grid-area: description;
     display: flex;
     flex-direction: column;
-    row-gap: 20px;
-
+    row-gap: 25px;
     margin-top: 32px;
     padding: 0 16px;
+}
+
+@media screen and (min-width: 768px) {
+    .place__description {
+        margin-top: 0;
+        padding: 0;
+    }
 }

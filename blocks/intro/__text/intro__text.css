@@ -1,25 +1,3 @@
-/*.intro__text {*/
-/*    margin: 40px 0 0 0;*/
-/*    font-style: normal;*/
-/*    font-weight: 400;*/
-/*    font-size: 16px;*/
-/*    line-height: 26px;*/
-
-/*    width: 690px;*/
-/*}*/
-
-/*@media screen and (max-width: 720px) {*/
-/*    .intro__text {*/
-/*        width: 720px;*/
-/*    }*/
-/*}*/
-
-/*@media screen and (max-width: 320px){*/
-/*    .intro__text {*/
-/*        width: calc(100vw - 16px * 2);*/
-/*    }*/
-/*}*/
-
 .intro__text {
     font-weight: 400;
     font-size: 16px;

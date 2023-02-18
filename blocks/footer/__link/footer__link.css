@@ -6,10 +6,9 @@
     color: #fff;
 }
 
-/*@media screen and (max-width: 700px) {*/
-/*    .footer__link {*/
-/*        font-weight: 400;*/
-/*        font-size: 24px;*/
-/*        line-height: 24px;*/
-/*    }*/
-/*}*/
+@media screen and (min-width: 768px) {
+    .footer__link {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
