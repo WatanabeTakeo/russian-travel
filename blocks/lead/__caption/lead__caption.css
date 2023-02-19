@@ -28,9 +28,6 @@
 
 @media screen and (min-width: 1080px) {
     .lead__caption {
-        align-self: center;
-        padding-left: 0;
         width: 984px;
-        text-align: start;
     }
 }
